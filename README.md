@@ -1,4 +1,4 @@
-# Livro de receitas :mam_cco:
+# Livro de receitas :mam_cook:
 olá bem vindos ao livro de receitas :wave:
- - Strogonof de frango
+ - Strogonoff de frango
  - Pavê 
